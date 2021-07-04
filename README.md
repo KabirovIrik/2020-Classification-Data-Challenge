@@ -1,4 +1,4 @@
 # 2020-Classification-Data-Challenge
-Соревнование на сайте kaggle.com.
-<a href="https://www.kaggle.com/c/classification-data-challenge/code">Ссылка на соревнование</a>.
+Соревнование на сайте kaggle.com. <br>
+<a href="https://www.kaggle.com/c/classification-data-challenge/code">Ссылка на соревнование</a>.<br>
 Для подбора признаков обучение были исопльзованы: размножение признаков, путем сложения и умножения друг сдругом, а затем использовать генетический алгоритм для отбора лучших признаков
